@@ -65,8 +65,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    min-width: 18rem;
-    max-width: 20rem;
+    width: 21rem;
     text-align: left;
   }
 }
