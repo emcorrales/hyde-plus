@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "hyde-plus"
+  spec.name          = "jekyll-theme-hyde-plus"
   spec.version       = "0.1.0"
   spec.authors       = ["Emmanuel Corrales"]
   spec.email         = ["contact@emmanuelcorrales.com"]
