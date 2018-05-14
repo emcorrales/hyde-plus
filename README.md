@@ -15,7 +15,7 @@ Hyde Plus is a fork of Hyde which is a brazen two-column [Jekyll](http://jekyllr
   - [Themes](#themes)
   - [Reverse layout](#reverse-layout)
 - [Development](#development)
-- [Author](#author)
+- [Authors](#authors)
 - [License](#license)
 
 
@@ -128,15 +128,13 @@ Hyde has two branches, but only one is used for active development.
 - `master` for development.  **All pull requests should be submitted against `master`.**
 - `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
 
-## Author of Hyde Plus
+## Authors
 
 **Emmanuel Corrales**
 - <https://emmanuelcorrales.com>
 - <https://github.com/EmmanuelCorrales>
 - <https://twitter.com/em_corrales>
 - <https://linkedin.com/in/emmanuelcorrales>
-
-## Author of Hyde
 
 **Mark Otto**
 - <https://github.com/mdo>
