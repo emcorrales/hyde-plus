@@ -24,7 +24,9 @@ version:          2.1.0
 github:
   repo:           https://github.com/EmmanuelCorrales/hyde-plus
 
-twitter_username: em_corrales
-linkedin_username: emmanuelcorrales
-github_username: EmmanuelCorrales
+social:
+  twitter_username: em_corrales
+  linkedin_username: emmanuelcorrales
+  github_username: EmmanuelCorrales
+
 email: contact@emmanuelcorrales.com
