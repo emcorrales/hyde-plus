@@ -1,9 +1,31 @@
-# Hyde
+# Hyde Plus
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Hyde Plus is a fork of Hyde which is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
 ![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
 
+
+## Installation
+
+Add this line to your Jekyll site's `Gemfile`:
+
+```ruby
+gem "jekyll-theme-hyde-plus"
+```
+
+And add this line to your Jekyll site's `_config.yml`:
+
+```yaml
+theme: jekyll-theme-hyde-plus
+```
+
+And then execute:
+
+    $ bundle
+
+Or install it yourself as:
+
+    $ gem install jekyll-theme-hyde-plus
 
 ## Contents
 
@@ -103,8 +125,15 @@ Hyde has two branches, but only one is used for active development.
 - `master` for development.  **All pull requests should be submitted against `master`.**
 - `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
 
+## Author of Hyde Plus
 
-## Author
+**Emmanuel Corrales**
+- <https://emmanuelcorrales.com>
+- <https://github.com/EmmanuelCorrales>
+- <https://twitter.com/em_corrales>
+- <https://linkedin.com/in/emmanuelcorrales>
+
+## Author of Hyde
 
 **Mark Otto**
 - <https://github.com/mdo>
@@ -114,5 +143,3 @@ Hyde has two branches, but only one is used for active development.
 ## License
 
 Open sourced under the [MIT license](LICENSE.md).
-
-<3
