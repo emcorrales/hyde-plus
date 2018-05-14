@@ -5,6 +5,21 @@ Hyde Plus is a fork of Hyde which is a brazen two-column [Jekyll](http://jekyllr
 ![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
 
 
+## Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Options](#options)
+  - [Sidebar menu](#sidebar-menu)
+  - [Sticky sidebar content](#sticky-sidebar-content)
+  - [Themes](#themes)
+  - [Reverse layout](#reverse-layout)
+- [Development](#development)
+- [Author](#author)
+- [License](#license)
+
+
+
 ## Installation
 
 Add this line to your Jekyll site's `Gemfile`:
@@ -26,18 +41,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install jekyll-theme-hyde-plus
-
-## Contents
-
-- [Usage](#usage)
-- [Options](#options)
-  - [Sidebar menu](#sidebar-menu)
-  - [Sticky sidebar content](#sticky-sidebar-content)
-  - [Themes](#themes)
-  - [Reverse layout](#reverse-layout)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
 
 
 ## Usage
