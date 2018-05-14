@@ -1,8 +1,8 @@
 # Hyde Plus
 
-Hyde Plus is a fork of Hyde which is a brazen two-column
-[Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with
-uncomplicated content.
+Hyde Plus is a fork of [Hyde](https://github.com/poole/hyde)  which is a brazen
+two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar
+with uncomplicated content.
 
 ![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
 
@@ -47,7 +47,12 @@ Or install it yourself as:
 
 ## Usage
 
-Hyde is a theme built on top of [Poole](https://github.com/poole/poole), which provides a fully furnished Jekyll setup—just download and start the Jekyll server. See [the Poole usage guidelines](https://github.com/poole/poole#usage) for how to install and use Jekyll.
+Hyde Plus is a fork of Hyde, a theme built on top of
+[Poole](https://github.com/poole/poole), which provides a fully furnished Jekyll
+setup—just download and start the Jekyll server. See
+[the Poole usage guidelines](https://github.com/poole/poole#usage) for how to
+install and use Jekyll. Hyde Plus can do more than what
+[Hyde](https://github.com/poole/hyde) can do.
 
 
 ## Options
