@@ -47,7 +47,7 @@ Or install it yourself as:
 
 ## Usage
 
-Hyde Plus is a fork of Hyde, a theme built on top of
+Hyde Plus is a fork of [Hyde](https://github.com/poole/hyde), a theme built on top of
 [Poole](https://github.com/poole/poole), which provides a fully furnished Jekyll
 setup—just download and start the Jekyll server. See
 [the Poole usage guidelines](https://github.com/poole/poole#usage) for how to
