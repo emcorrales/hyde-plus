@@ -14,3 +14,8 @@ a.social:link, a.social:visited {
 a.social :hover {
   opacity: 0.5;
 }
+
+figure {
+  margin-left: 0px;
+  margin-right: 0px;
+}
