@@ -7,4 +7,4 @@
 ga('create', '{{ site.google_analytics }}', 'auto');
 ga('send', 'pageview');
 
-</script
+</script>
