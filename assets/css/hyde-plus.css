@@ -19,3 +19,7 @@ figure {
   margin-left: 0px;
   margin-right: 0px;
 }
+
+pre {
+  overflow-x: auto;
+}
