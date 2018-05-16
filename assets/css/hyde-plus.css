@@ -22,4 +22,5 @@ figure {
 
 pre {
   overflow-x: auto;
+  white-space: pre;
 }
