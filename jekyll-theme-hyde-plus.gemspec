@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-hyde-plus"
-  spec.version       = "0.3.4"
+  spec.version       = "0.3.5"
   spec.authors       = ["Emmanuel Corrales"]
   spec.email         = ["contact@emmanuelcorrales.com"]
 
